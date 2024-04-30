@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming CS PhD student at Singapore Management University for 24 Fall, advised by Prof. David Lo.
+subtitle: Incoming CS PhD student at Singapore Management University
 
 profile:
   align: right
@@ -19,7 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am **Huihui Huang** (黄慧惠), a senior undergraduate majoring in Computer Science at Southern University of Science and Technology[(SUSTech)](https://www.sustech.edu.cn/en/). I am also a member of ARiSE lab, supervised by Prof. [Yuqun Zhang](https://zhangyuqun.github.io/index.html). I was fortunate to participate in a research internship at [NUS](https://www.nus.edu.sg/) in the fall of 2023, serving as a member of the PLSE lab and focusing on Programming Languages, under the supervision of Prof. [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/).
+Hi, I am **Huihui Huang** (黄慧惠), a senior undergraduate majoring in Computer Science at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). I am also a member of ARiSE lab, supervised by Prof. [Yuqun Zhang](https://zhangyuqun.github.io/index.html). 
+
+I was fortunate to participate in a research internship at [National University of Singapore](https://www.nus.edu.sg/) in the fall of 2023, serving as a member of the PLSE lab and focusing on Programming Languages, under the supervision of Prof. [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/).
+
+I will be joining [Singapore Management University](https://www.smu.edu.sg/) as a Ph.D. student in Computer Science in Fall 2024 and fortunate to work with Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/)!
 
 
 <!-- My research interests are mainly in **Software Engineering** and **Programming Languages**. I am excited to improve software systems’ reliability and scalability. I have been exposed to research areas about SCA (Software Composition Analysis), Binary Similarity Detection, Binary File Diffing Problems, and would like to explore new topics related to them. -->
@@ -28,6 +32,7 @@ Hi, I am **Huihui Huang** (黄慧惠), a senior undergraduate majoring in Comput
 - AI for SE, Security
 - Software Composition Analysis
 - Binary Similarity Detection
+- Concurrent C2Rust
 
 <!-- For more information please see my [CV](http://huihuihuang.top/assets/pdf/HuihuiHuang_CV.pdf).
 
