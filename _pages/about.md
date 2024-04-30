@@ -23,7 +23,7 @@ Hi, I am **Huihui Huang** (黄慧惠), a senior undergraduate majoring in Comput
 
 I was fortunate to participate in a research internship at [National University of Singapore](https://www.nus.edu.sg/) in the fall of 2023, serving as a member of the PLSE lab and focusing on Programming Languages, under the supervision of Prof. [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/).
 
-I will be joining [Singapore Management University](https://www.smu.edu.sg/) as a Ph.D. student in Computer Science in Fall 2024 and fortunate to work with Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/)!
+In Fall 2024, I will begin my Ph.D. in Computer Science at [Singapore Management University](https://www.smu.edu.sg/), and I am excited to work with Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/)!
 
 
 <!-- My research interests are mainly in **Software Engineering** and **Programming Languages**. I am excited to improve software systems’ reliability and scalability. I have been exposed to research areas about SCA (Software Composition Analysis), Binary Similarity Detection, Binary File Diffing Problems, and would like to explore new topics related to them. -->
