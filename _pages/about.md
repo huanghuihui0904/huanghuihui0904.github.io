@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming CS PhD student at Singapore Management University for ’24 Fall, advised by Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/).
+subtitle: Incoming CS PhD student at Singapore Management University for ’24 Fall, advised by Prof. David Lo.
 
 profile:
   align: right
