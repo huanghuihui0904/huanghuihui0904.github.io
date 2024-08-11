@@ -24,7 +24,7 @@ Hi, I am **Huihui Huang** (黄慧惠), a senior undergraduate majoring in Comput
 
 I am a first-year PhD student in the Software Analytics Research ([SOAR](https://soarsmu.github.io/team/)) group at the Singapore Management University (SMU), fortunate to be advised by [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/). Before starting my PhD, I completed my Bachelor's degree at Southern University of Science and Technology (SUSTech), where I was mentored by [Prof. Yuqun Zhang](https://zhangyuqun.github.io/index.html). I also served as a research intern under [Prof. Umang Mathur](https://www.comp.nus.edu.sg/~umathur/) at the National University of Singapore (NUS).
 
-
+Contact: [hh.huang.2024@phdcs.smu.edu.sg](hh.huang.2024@phdcs.smu.edu.sg) or [huihuihuang0904@gmail.com](huihuihuang0904@gmail.com)
 
 <!-- I was fortunate to participate in a research internship at [National University of Singapore](https://www.nus.edu.sg/) in the fall of 2023, serving as a member of the PLSE lab and focusing on Programming Languages, under the supervision of Prof. [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/).
 
