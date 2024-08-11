@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Arrived at [SMU](https://www.smu.edu.sg/). Beginning my Ph.D. journey here!
+🛬 Arrived at [SMU](https://www.smu.edu.sg/). Beginning my Ph.D. journey here!
