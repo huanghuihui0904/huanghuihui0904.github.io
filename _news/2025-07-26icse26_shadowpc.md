@@ -4,4 +4,4 @@ date: 2025-07-26
 inline: true
 related_posts: false
 ---
-👷 I will serve as a Shadow PC member in ICSE 2026!
+👷 I will serve as a **Shadow PC** member in **ICSE 2026**!
