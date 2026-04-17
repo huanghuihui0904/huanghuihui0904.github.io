@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 Hi, I am **Huihui Huang** (黄慧惠), a senior undergraduate majoring in Computer Science at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). I am also a member of ARiSE lab, supervised by Prof. [Yuqun Zhang](https://zhangyuqun.github.io/index.html).  -->
 
 
-I am a second-year PhD candidate in the Software Analytics Research ([SOAR](https://soarsmu.github.io/team/)) group at the Singapore Management University (SMU), fortunate to be advised by [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/) (ACM and IEEE Fellow). I am also grateful to be mentored by [Dr. Jieke Shi](https://jiekeshi.notion.site/). Before starting my PhD, I completed my Bachelor's degree at Southern University of Science and Technology (SUSTech), where I was mentored by [Prof. Yuqun Zhang](https://zhangyuqun.github.io/index.html). 
+I am a second-year PhD candidate in the Software Analytics Research ([SOAR](https://soarsmu.github.io/team/)) group at the Singapore Management University (SMU), fortunate to be advised by [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/) (ACM and IEEE Fellow). I am also grateful to be mentored by [Dr. Jieke Shi](https://jiekeshi.tech/). Before starting my PhD, I completed my Bachelor's degree at Southern University of Science and Technology (SUSTech), where I was mentored by [Prof. Yuqun Zhang](https://zhangyuqun.github.io/index.html). 
 
 <!-- I have also worked as a research intern under [Prof. Umang Mathur](https://www.comp.nus.edu.sg/~umathur/) at the National University of Singapore (NUS). -->
 
