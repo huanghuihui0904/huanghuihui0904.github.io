@@ -1,3 +1,15 @@
+"ACL'26 Main":
+  url: https://2026.aclweb.org/
+  color: "#E94B3C"
+
+"TOSEM":
+  url: https://dl.acm.org/journal/tosem
+  color: "#6B5B95"
+
+"TOSEM 2026":
+  url: https://dl.acm.org/journal/tosem
+  color: "#6B5B95"
+
 "AJP":
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"
