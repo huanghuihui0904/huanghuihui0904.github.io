@@ -192,6 +192,12 @@
       {% endif %}
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+        {% if entry.code contains 'github.com/' %}
+          {% assign repo_path = entry.code | split: 'github.com/' | last | split: '/' | slice: 0, 2 | join: '/' %}
+          <a href="{{ entry.code }}" role="button" style="margin-left: 4px; vertical-align: middle;" aria-label="GitHub stars">
+            <img src="https://img.shields.io/github/stars/{{ repo_path }}?style=social" alt="GitHub stars" style="vertical-align: middle;" />
+          </a>
+        {% endif %}
       {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}

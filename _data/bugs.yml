@@ -1,0 +1,394 @@
+# Real-world bugs I found in open-source software. One entry = one bug.
+# ID is generated automatically from the order below (top = 1).
+#
+#   project:      software name (required)
+#   project_url:  homepage / repo link (optional)
+#   bug_id:       commit hash / issue number / CVE - the label shown, links to `link`
+#   link:         URL to the issue / PR / commit / advisory (required)
+#   type:         bug / vulnerability class, e.g. "memory leak", "use-after-free"
+#   method:       tool / technique used, e.g. "MemHint". Use "---" if not found by a tool.
+
+- project: OpenSSL
+  project_url: https://github.com/openssl/openssl
+  bug_id: "#30442"
+  link: https://github.com/openssl/openssl/issues/30442
+  type: memory leak
+  method: MemHint
+
+- project: OpenSSL
+  project_url: https://github.com/openssl/openssl
+  bug_id: "#30440"
+  link: https://github.com/openssl/openssl/issues/30440
+  type: memory leak
+  method: MemHint
+
+- project: OpenSSL
+  project_url: https://github.com/openssl/openssl
+  bug_id: "#30435"
+  link: https://github.com/openssl/openssl/issues/30435
+  type: memory leak
+  method: MemHint
+
+- project: OpenSSL
+  project_url: https://github.com/openssl/openssl
+  bug_id: "#30378"
+  link: https://github.com/openssl/openssl/issues/30378
+  type: memory leak
+  method: MemHint
+
+- project: OpenSSL
+  project_url: https://github.com/openssl/openssl
+  bug_id: "#30377"
+  link: https://github.com/openssl/openssl/issues/30377
+  type: memory leak
+  method: MemHint
+
+- project: OpenSSL
+  project_url: https://github.com/openssl/openssl
+  bug_id: "#30364"
+  link: https://github.com/openssl/openssl/issues/30364
+  type: memory leak
+  method: MemHint
+
+- project: OpenSSL
+  project_url: https://github.com/openssl/openssl
+  bug_id: "#30362"
+  link: https://github.com/openssl/openssl/issues/30362
+  type: memory leak
+  method: MemHint
+
+- project: OpenSSL
+  project_url: https://github.com/openssl/openssl
+  bug_id: "#30309"
+  link: https://github.com/openssl/openssl/issues/30309
+  type: memory leak
+  method: MemHint
+
+- project: OpenSSL
+  project_url: https://github.com/openssl/openssl
+  bug_id: "#30308"
+  link: https://github.com/openssl/openssl/issues/30308
+  type: memory leak
+  method: MemHint
+
+- project: Linux Kernel
+  project_url: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+  bug_id: "12ea5828"
+  link: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=12ea58282087b9df896fd0a43a92fa83e56b33c9
+  type: memory leak
+  method: MemHint
+
+- project: Linux Kernel
+  project_url: https://patchwork.linuxtv.org/project/linux-media/
+  bug_id: "468454b8"
+  link: https://patchwork.linuxtv.org/project/linux-media/patch/20260416063058.2479566-1-hhhuang@smu.edu.sg/
+  type: memory leak
+  method: MemHint
+
+- project: Linux Kernel
+  project_url: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+  bug_id: "0a607083"
+  link: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=0a6070839b1ef276d5b05bedfb787743e140fb17
+  type: out-of-bounds read
+  method: ---
+
+- project: redis
+  project_url: https://github.com/redis/redis
+  bug_id: "#14864"
+  link: https://github.com/redis/redis/issues/14864
+  type: memory leak
+  method: MemHint
+
+- project: redis
+  project_url: https://github.com/redis/redis
+  bug_id: "#14863"
+  link: https://github.com/redis/redis/pull/14863
+  type: memory leak
+  method: MemHint
+
+- project: redis
+  project_url: https://github.com/redis/redis
+  bug_id: "#14861"
+  link: https://github.com/redis/redis/issues/14861
+  type: memory leak
+  method: MemHint
+
+- project: curl
+  project_url: https://github.com/curl/curl
+  bug_id: "#20862"
+  link: https://github.com/curl/curl/pull/20862
+  type: memory leak
+  method: MemHint
+
+- project: FreeRDP
+  project_url: https://github.com/FreeRDP/FreeRDP
+  bug_id: "#12548"
+  link: https://github.com/FreeRDP/FreeRDP/pull/12548
+  type: memory leak
+  method: MemHint
+
+- project: FreeRDP
+  project_url: https://github.com/FreeRDP/FreeRDP
+  bug_id: "#12547"
+  link: https://github.com/FreeRDP/FreeRDP/pull/12547
+  type: memory leak
+  method: MemHint
+
+- project: FreeRDP
+  project_url: https://github.com/FreeRDP/FreeRDP
+  bug_id: "#12488"
+  link: https://github.com/FreeRDP/FreeRDP/pull/12488
+  type: memory leak
+  method: MemHint
+
+- project: FreeRDP
+  project_url: https://github.com/FreeRDP/FreeRDP
+  bug_id: "#12487"
+  link: https://github.com/FreeRDP/FreeRDP/pull/12487
+  type: memory leak
+  method: MemHint
+
+- project: FreeRDP
+  project_url: https://github.com/FreeRDP/FreeRDP
+  bug_id: "#12486"
+  link: https://github.com/FreeRDP/FreeRDP/pull/12486
+  type: memory leak
+  method: MemHint
+
+- project: FFmpeg
+  project_url: https://code.ffmpeg.org/FFmpeg/FFmpeg
+  bug_id: "#22522"
+  link: https://code.ffmpeg.org/FFmpeg/FFmpeg/pulls/22522
+  type: memory leak
+  method: MemHint
+
+- project: FFmpeg
+  project_url: https://code.ffmpeg.org/FFmpeg/FFmpeg
+  bug_id: "#22519"
+  link: https://code.ffmpeg.org/FFmpeg/FFmpeg/pulls/22519
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19828"
+  link: https://github.com/vim/vim/pull/19828
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19827"
+  link: https://github.com/vim/vim/pull/19827
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19821"
+  link: https://github.com/vim/vim/pull/19821
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19820"
+  link: https://github.com/vim/vim/pull/19820
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19819"
+  link: https://github.com/vim/vim/pull/19819
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19817"
+  link: https://github.com/vim/vim/pull/19817
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19629"
+  link: https://github.com/vim/vim/pull/19629
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19628"
+  link: https://github.com/vim/vim/pull/19628
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19627"
+  link: https://github.com/vim/vim/pull/19627
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19626"
+  link: https://github.com/vim/vim/pull/19626
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19572"
+  link: https://github.com/vim/vim/pull/19572
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19564"
+  link: https://github.com/vim/vim/pull/19564
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19563"
+  link: https://github.com/vim/vim/pull/19563
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19531"
+  link: https://github.com/vim/vim/pull/19531
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19518"
+  link: https://github.com/vim/vim/pull/19518
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19517"
+  link: https://github.com/vim/vim/pull/19517
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19516"
+  link: https://github.com/vim/vim/pull/19516
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19513"
+  link: https://github.com/vim/vim/pull/19513
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19508"
+  link: https://github.com/vim/vim/pull/19508
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19507"
+  link: https://github.com/vim/vim/pull/19507
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19506"
+  link: https://github.com/vim/vim/pull/19506
+  type: memory leak
+  method: MemHint
+
+- project: vim
+  project_url: https://github.com/vim/vim
+  bug_id: "#19505"
+  link: https://github.com/vim/vim/pull/19505
+  type: memory leak
+  method: MemHint
+
+- project: tmux
+  project_url: https://github.com/tmux/tmux
+  bug_id: "#4905"
+  link: https://github.com/tmux/tmux/issues/4905
+  type: memory leak
+  method: MemHint
+
+- project: tmux
+  project_url: https://github.com/tmux/tmux
+  bug_id: "#4879"
+  link: https://github.com/tmux/tmux/issues/4879
+  type: memory leak
+  method: MemHint
+
+- project: tmux
+  project_url: https://github.com/tmux/tmux
+  bug_id: "#4878"
+  link: https://github.com/tmux/tmux/issues/4878
+  type: memory leak
+  method: MemHint
+
+- project: tmux
+  project_url: https://github.com/tmux/tmux
+  bug_id: "#4877"
+  link: https://github.com/tmux/tmux/issues/4877
+  type: memory leak
+  method: MemHint
+
+- project: tmux
+  project_url: https://github.com/tmux/tmux
+  bug_id: "#4876"
+  link: https://github.com/tmux/tmux/issues/4876
+  type: memory leak
+  method: MemHint
+
+- project: tmux
+  project_url: https://github.com/tmux/tmux
+  bug_id: "#4875"
+  link: https://github.com/tmux/tmux/issues/4875
+  type: memory leak
+  method: MemHint
+
+- project: tmux
+  project_url: https://github.com/tmux/tmux
+  bug_id: "#4874"
+  link: https://github.com/tmux/tmux/issues/4874
+  type: memory leak
+  method: MemHint
+
+- project: tmux
+  project_url: https://github.com/tmux/tmux
+  bug_id: "#4873"
+  link: https://github.com/tmux/tmux/issues/4873
+  type: memory leak
+  method: MemHint
+
+- project: tmux
+  project_url: https://github.com/tmux/tmux
+  bug_id: "#4872"
+  link: https://github.com/tmux/tmux/issues/4872
+  type: memory leak
+  method: MemHint
+
+- project: tmux
+  project_url: https://github.com/tmux/tmux
+  bug_id: "#4870"
+  link: https://github.com/tmux/tmux/issues/4870
+  type: memory leak
+  method: MemHint
