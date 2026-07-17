@@ -26,7 +26,7 @@ I am a second-year PhD candidate in the Software Analytics Research ([SOAR](http
 
 <!-- I have also worked as a research intern under [Prof. Umang Mathur](https://www.comp.nus.edu.sg/~umathur/) at the National University of Singapore (NUS). -->
 
-Contact: <hh.huang.2024@phdcs.smu.edu.sg> or <hhhuang@smu.edu.sg>
+Contact: <hhhuang@smu.edu.sg> or <hh.huang.2024@phdcs.smu.edu.sg>
 
 <!-- I was fortunate to participate in a research internship at [National University of Singapore](https://www.nus.edu.sg/) in the fall of 2023, serving as a member of the PLSE lab and focusing on Programming Languages, under the supervision of Prof. [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/).
 
@@ -36,9 +36,8 @@ In Fall 2024, I will begin my Ph.D. in Computer Science at [Singapore Management
 <!-- My research interests are mainly in **Software Engineering** and **Programming Languages**. I am excited to improve software systems’ reliability and scalability. I have been exposed to research areas about SCA (Software Composition Analysis), Binary Similarity Detection, Binary File Diffing Problems, and would like to explore new topics related to them. -->
 
 ##### Research Interests:
-- Penetration testing
-- Vulnerability Detection
-- Software Traceability
+- AI for Security
+- AI for SE
 
 <!-- - Software Composition Analysis
 - Binary Similarity Detection
