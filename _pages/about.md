@@ -36,8 +36,8 @@ In Fall 2024, I will begin my Ph.D. in Computer Science at [Singapore Management
 <!-- My research interests are mainly in **Software Engineering** and **Programming Languages**. I am excited to improve software systems’ reliability and scalability. I have been exposed to research areas about SCA (Software Composition Analysis), Binary Similarity Detection, Binary File Diffing Problems, and would like to explore new topics related to them. -->
 
 ##### Research Interests:
-- AI for Security
 - AI for SE
+- AI for Security
 
 <!-- - Software Composition Analysis
 - Binary Similarity Detection
