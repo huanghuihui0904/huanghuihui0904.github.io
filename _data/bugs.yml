@@ -91,7 +91,7 @@
 - project: Linux Kernel
   project_url: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
   bug_id: "0a607083"
-  link: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=0a6070839b1ef276d5b05bedfb787743e140fb17
+  link: https://github.com/torvalds/linux/commit/0a6070839b1ef276d5b05bedfb787743e140fb17
   type: out-of-bounds read
   method: ---
   cve: "CVE-2026-64299"
