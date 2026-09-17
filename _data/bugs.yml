@@ -428,3 +428,10 @@
   cve: "CVE-2026-73260"
   cvss: "7.5"
   severity: "High"
+
+- project: libucl
+  project_url: https://github.com/vstakhov/libucl
+  bug_id: "#400"
+  link: https://github.com/vstakhov/libucl/pull/400
+  type: out-of-bounds read
+  method: ---
