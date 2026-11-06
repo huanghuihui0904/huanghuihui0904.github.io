@@ -435,3 +435,31 @@
   link: https://github.com/vstakhov/libucl/pull/400
   type: out-of-bounds read
   method: ---
+
+- project: OpenSC
+  project_url: https://github.com/OpenSC/OpenSC
+  bug_id: "#3879"
+  link: https://github.com/OpenSC/OpenSC/pull/3879
+  type: heap buffer overflow
+  method: ---
+
+- project: assimp
+  project_url: https://github.com/assimp/assimp
+  bug_id: "#6949"
+  link: https://github.com/assimp/assimp/pull/6949
+  type: out-of-bounds read
+  method: ---
+
+- project: LibreDWG
+  project_url: https://github.com/LibreDWG/libredwg
+  bug_id: "#1439"
+  link: https://github.com/LibreDWG/libredwg/issues/1439
+  type: heap buffer overflow
+  method: ---
+
+- project: OpenSC
+  project_url: https://github.com/OpenSC/OpenSC
+  bug_id: "#3861"
+  link: https://github.com/OpenSC/OpenSC/pull/3861
+  type: out-of-bounds read
+  method: ---

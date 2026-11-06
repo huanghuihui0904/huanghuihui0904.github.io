@@ -6,7 +6,7 @@ subtitle: CS PhD candidate at Singapore Management University
 
 profile:
   align: right
-  image: selfie_regent_square.jpg
+  image: profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
 #  <p>555 your office number</p>
